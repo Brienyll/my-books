@@ -10,8 +10,6 @@ class BooksApp extends React.Component {
       books: []
   };
 
-  //will get our initial state of the page by getting all books
-  //then filtering them out by their respective states
   componentDidMount() {
     BooksAPI.getAll().then((books) => {
       this.setState({
