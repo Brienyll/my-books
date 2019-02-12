@@ -18,7 +18,7 @@ These two commands will install all of the dependencies needed for this project 
     * The first proper release
 ## Meta
 
-Your Name – [@br1xxx](https://twitter.com/br1xxx) – brix.angeles@gmail.com
+Your Name – [@br1xxx](https://twitter.com/br1xxx) – 
 
 [https://github.com/Brienyll/my-books](https://github.com/Brienyll/)
 
